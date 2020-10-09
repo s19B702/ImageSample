@@ -29,8 +29,8 @@
         android:layout_width="240dp"
         android:layout_height="34dp"
         android:text="ゆいとくん"
-        tools:layout_editor_absoluteX="9dp"
-        tools:layout_editor_absoluteY="48dp"
+        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteY="500dp"
         tools:ignore="MissingConstraints" />
 
     <TextView
@@ -39,7 +39,7 @@
         android:layout_height="34dp"
         android:text="そうたくん"
         tools:layout_editor_absoluteX="5dp"
-        tools:layout_editor_absoluteY="546dp"
+        tools:layout_editor_absoluteY="500dp"
         tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
