@@ -14,11 +14,12 @@ import android.view.View;
 
 public class CustomView1 extends View {
     private Context context;
-
     /**
      * コンストラクタ
      * @param context
      * @param attrs
+     * @auter 花房由都
+     *
      */
     public CustomView1(Context context, AttributeSet attrs){
         super(context, attrs);
